@@ -999,6 +999,10 @@ body.active {
   margin-bottom: 20px;
 }
 
+.gray  {
+  color: lightgray;
+}
+
 .footer-menu-link {
   color: var(--platinum);
   font-family: var(--ff-oswald);

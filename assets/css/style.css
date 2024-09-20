@@ -544,11 +544,11 @@ body.active {
 
 
 
-p span a {
+.enlace {
   color: #6776af;
 }
 
-p span a:hover {
+.enlace:hover {
   color: lightgray;
 }
 
